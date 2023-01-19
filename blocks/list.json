@@ -1,0 +1,23 @@
+[
+  {
+  "name": "footer",
+  "preview": true,
+  "docTable": true,
+  "reference": "https://www.hlx.live/developer/block-collection/footer",
+  "icon": "fa-newspaper"
+  },
+  {
+  "name": "header",
+  "preview": true,
+  "docTable": true,
+  "reference": "https://www.hlx.live/developer/block-collection/header",
+  "icon": "fa-pager"
+  },
+  {
+  "name": "hero",
+  "preview": true,
+  "docTable": true,
+  "reference": "https://www.hlx.live/developer/block-collection/hero",
+  "icon": "fa-panorama"
+  }
+  ]
